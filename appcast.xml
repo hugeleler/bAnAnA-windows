@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+    <title>小香蕉 Windows 更新频道</title>
+    <link>https://github.com/hugeleler/bAnAnA-windows/releases</link>
+    <description>bAnAnA for Windows</description>
+    <language>zh-Hans</language>
+    <item>
+        <title>小香蕉 1.1.2.2</title>
+        <sparkle:version>1.1.2.2</sparkle:version>
+        <sparkle:shortVersionString>1.1.2.2</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>6.3</sparkle:minimumSystemVersion>
+        <pubDate>2026-09-28T17:30:00+08:00</pubDate>
+        <sparkle:releaseNotesLink>https://hugeleler.github.io/bAnAnA-windows/changelog.html</sparkle:releaseNotesLink>
+        <description><![CDATA[
+            <div style="font-size: 12px; font-family: 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333333;">
+                Ver. 1.1.2.2<br>
+                <br>
+                - Windows 安装包 bAnAnA-1.1.2.2-setup.exe；<br>
+                - 用户目录为 %APPDATA%\bAnAnA；<br>
+                - 用户设定提供皮肤、横向输入条和纵向输入条；<br>
+                - 关于窗口检查 https://hugeleler.github.io/bAnAnA-windows/appcast.xml。
+            </div>
+        ]]></description>
+        <enclosure url="https://github.com/hugeleler/bAnAnA-windows/releases/download/v1.1.2.2/bAnAnA-1.1.2.2-setup.exe"
+                   sparkle:version="1.1.2.2"
+                   sparkle:shortVersionString="1.1.2.2"
+                   length="88069739"
+                   type="application/octet-stream"/>
+    </item>
+</channel>
+</rss>
