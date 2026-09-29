@@ -6,6 +6,30 @@
     <description>bAnAnA for Windows</description>
     <language>zh-Hans</language>
     <item>
+        <title>小香蕉 1.1.2.5</title>
+        <sparkle:version>1.1.2.5</sparkle:version>
+        <sparkle:shortVersionString>1.1.2.5</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>6.3</sparkle:minimumSystemVersion>
+        <pubDate>2026-09-29T17:40:00+08:00</pubDate>
+        <sparkle:releaseNotesLink>https://hugeleler.github.io/bAnAnA-windows/changelog.html</sparkle:releaseNotesLink>
+        <sparkle:fullReleaseNotesLink>https://hugeleler.github.io/bAnAnA-windows/changelog.html</sparkle:fullReleaseNotesLink>
+        <description><![CDATA[
+            <div style="font-size: 12px; font-family: 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333333;">
+                Ver. 1.1.2.5<br>
+                <br>
+                - Windows 安装包 bAnAnA-1.1.2.5-setup.exe；<br>
+                - 版本号与检查更新对齐 macOS 1.1.2.5 的发布通道；<br>
+                - 语言栏保持中／EN，程序和功能显示褐色香蕉图标；<br>
+                - 安装过程不再弹出控制台窗口。
+            </div>
+        ]]></description>
+        <enclosure url="https://github.com/hugeleler/bAnAnA-windows/releases/download/v1.1.2.5/bAnAnA-1.1.2.5-setup.exe"
+                   sparkle:version="1.1.2.5"
+                   sparkle:shortVersionString="1.1.2.5"
+                   length="88290485"
+                   type="application/octet-stream"/>
+    </item>
+    <item>
         <title>小香蕉 1.1.2.2</title>
         <sparkle:version>1.1.2.2</sparkle:version>
         <sparkle:shortVersionString>1.1.2.2</sparkle:shortVersionString>
