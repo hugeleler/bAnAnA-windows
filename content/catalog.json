@@ -85,7 +85,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "luna",
-      "version": "1.0.0.0",
+      "version": "1.0.0.1",
       "bytes": 70488,
       "name": "luna.bskin"
     },
@@ -103,7 +103,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "wechat",
-      "version": "1.0.0.0",
+      "version": "1.0.0.1",
       "bytes": 75170,
       "name": "wechat.bskin"
     },
@@ -193,7 +193,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "wechat",
-      "version": "1.0.0.0",
+      "version": "1.0.0.1",
       "bytes": 75169,
       "name": "wechat.bskin"
     }
