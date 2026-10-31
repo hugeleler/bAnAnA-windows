@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240">
+<rect x="24" y="36" width="280" height="160" rx="12" fill="#fce5cd" stroke="#e69138"/>
+<text x="44" y="72" font-size="16" fill="#333">目标进程</text>
+<text x="44" y="104" font-size="14" fill="#333">文本服务 (TSF)</text>
+<text x="44" y="132" font-size="13" fill="#555">收按键、画候选条</text>
+<rect x="416" y="36" width="280" height="160" rx="12" fill="#d9ead3" stroke="#6aa84f"/>
+<text x="436" y="72" font-size="16" fill="#333">小香蕉服务进程</text>
+<text x="436" y="104" font-size="14" fill="#333">引擎 + 界面菜单</text>
+<text x="436" y="132" font-size="13" fill="#555">librime、方案、皮肤、gram</text>
+<line x1="304" y1="116" x2="416" y2="116" stroke="#888" stroke-width="2"/>
+<text x="318" y="104" font-size="12" fill="#555">命名管道</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220">
+<rect x="16" y="24" width="688" height="172" rx="12" fill="none" stroke="#888"/>
+<text x="36" y="52" font-size="16" fill="currentColor">方案根 data/&lt;id&gt;/</text>
+<rect x="36" y="72" width="200" height="96" rx="8" fill="#f4e3c1" stroke="#b08948"/>
+<text x="48" y="108" font-size="14" fill="#333">package.yaml</text>
+<text x="48" y="132" font-size="12" fill="#555">id / 显示名 / 版本</text>
+<rect x="256" y="72" width="200" height="96" rx="8" fill="#d9ead3" stroke="#6aa84f"/>
+<text x="268" y="108" font-size="14" fill="#333">rime/</text>
+<text x="268" y="132" font-size="12" fill="#555">挂给 librime</text>
+<rect x="476" y="72" width="200" height="96" rx="8" fill="#cfe2f3" stroke="#3d85c6"/>
+<text x="488" y="108" font-size="14" fill="#333">themes/*.bskin</text>
+<text x="488" y="132" font-size="12" fill="#555">本端只读自己那段</text>
+</svg>

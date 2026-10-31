@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 140">
+<g font-size="13" fill="#333">
+<rect x="16" y="36" width="150" height="68" rx="8" fill="#cfe2f3" stroke="#3d85c6"/><text x="44" y="76">安装 APK</text>
+<rect x="196" y="36" width="150" height="68" rx="8" fill="#cfe2f3" stroke="#3d85c6"/><text x="214" y="68">系统设置</text><text x="214" y="88">启用小香蕉</text>
+<rect x="376" y="36" width="150" height="68" rx="8" fill="#cfe2f3" stroke="#3d85c6"/><text x="396" y="76">选为输入法</text>
+<rect x="556" y="36" width="148" height="68" rx="8" fill="#d9ead3" stroke="#6aa84f"/><text x="574" y="68">应用里改</text><text x="574" y="88">方案与键盘</text>
+</g>
+<g fill="#888"><polygon points="166,70 196,70 196,66 210,74 196,82 196,78 166,78"/>
+<polygon points="346,70 376,70 376,66 390,74 376,82 376,78 346,78"/>
+<polygon points="526,70 556,70 556,66 570,74 556,82 556,78 526,78"/></g>
+</svg>

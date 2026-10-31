@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>方案包 · 小香蕉 Windows</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="layout">
+<nav><h2>小香蕉 Windows</h2>
+<div><a href="index.html">首页</a></div>
+<div><a href="Introduction.html">简介</a></div>
+<div><a href="GettingStarted.html">入门</a></div>
+<div><a href="Downloads.html">下载与安装</a></div>
+<div><a href="UserGuide.html">说明书</a></div>
+<div><a href="FAQ.html">常见问题</a></div>
+<h2>方案与数据</h2>
+<div><a href="RimeWithSchemata.html">方案包</a></div>
+<div><a href="UserData.html">用户数据</a></div>
+<div><a href="SharedData.html">出厂数据</a></div>
+<div><a href="Configuration.html">配置</a></div>
+<div><a href="CustomizationGuide.html">皮肤与定制</a></div>
+<div><a href="DictionaryPack.html">语言模型</a></div>
+<h2>发布</h2>
+<div><a href="Downloads.html">安装包</a></div>
+<div><a href="Update.html">更新频道</a></div></nav>
+<main>
+<div class="sisters"><a href="https://hugeleler.github.io/bAnAnA-mac/doc/">macOS 文档</a><a href="index.html" class="here">Windows 文档</a><a href="https://hugeleler.github.io/bAnAnA-android/doc/">Android 文档</a><a href="https://hugeleler.github.io/bAnAnA-ios/doc/">iOS 文档</a></div>
+<h1>方案包</h1>
+<p>一套方案是一个根目录。挂载、升级、删除都以这个根为单位。Windows 与另外三端读同一套结构。</p>
+<figure><img class="diagram" src="images/package.svg" alt="方案根：package.yaml + rime/ + themes/"><figcaption>方案根：package.yaml + rime/ + themes/</figcaption></figure>
+<pre><code>data/&lt;id&gt;/
+  package.yaml
+  rime/          交给 librime；只有这一层进 mount
+  themes/*.bskin 宿主只读本端那一段
+</code></pre>
+<table><tbody>
+<tr><th>id</th><th>显示名</th><th>说明</th></tr>
+<tr><td><code>banana</code></td><td>小香蕉</td><td>缺省包。全拼、双拼、五笔、英文、九键。不要卸光</td></tr>
+<tr><td><code>frost</code></td><td>白霜拼音</td><td>第二包，结构相同</td></tr>
+</tbody></table>
+<p>用户目录：<code>%AppData%\bAnAnA</code>。出厂：安装目录 <code>data\&lt;id&gt;\</code></p>
+</main>
+</div>
+</body>
+</html>

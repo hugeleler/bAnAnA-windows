@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 250">
+<rect x="24" y="28" width="220" height="190" rx="12" fill="#cfe2f3" stroke="#3d85c6"/>
+<text x="44" y="64" font-size="16" fill="#333">容器 App</text>
+<text x="44" y="96" font-size="13" fill="#555">方案 / 皮肤 / 偏好</text>
+<text x="44" y="118" font-size="13" fill="#555">banana:// 主页</text>
+<rect x="490" y="28" width="206" height="190" rx="12" fill="#d9ead3" stroke="#6aa84f"/>
+<text x="508" y="64" font-size="16" fill="#333">键盘扩展</text>
+<text x="508" y="96" font-size="13" fill="#555">librime 只在这里</text>
+<text x="508" y="118" font-size="13" fill="#555">BananaRime.dylib</text>
+<rect x="268" y="78" width="196" height="90" rx="12" fill="#f4e3c1" stroke="#b08948"/>
+<text x="286" y="114" font-size="15" fill="#333">App Group</text>
+<text x="286" y="138" font-size="12" fill="#555">packages/ 与 user/</text>
+</svg>
